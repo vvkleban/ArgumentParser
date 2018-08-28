@@ -1,3 +1,5 @@
+package com.vkleban.argument_parser;
+
 /*
  * Name:		ArgumentException
  * Version:		0.1
